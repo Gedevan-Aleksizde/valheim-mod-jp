@@ -1,4 +1,4 @@
-﻿{
+{
   "mod_epicloot_craftingmaterial": "クラフト素材",
   "mod_epicloot_set": "セット装備",
 
@@ -1065,7 +1065,7 @@
   "mod_epicloot_epic_stabber": "刺客",
   "mod_epicloot_epic_stalker": "ストーカー",
   "mod_epicloot_epic_sting": "つらぬき丸",
-  "mod_epicloot_epic_suit": "Suit",
+  "mod_epicloot_epic_suit": "装い",
   "mod_epicloot_epic_sunder": "断裁",
   "mod_epicloot_epic_sword": "剣",
   "mod_epicloot_epic_talisman": "タリスマン",
@@ -1092,7 +1092,7 @@
   "mod_epicloot_l_gungnir": "オーディンの槍、グングニル", 
   "mod_epicloot_l_gungnir_desc": "世界樹ユグドラシルから折り取った枝であり、オーディンの力の源である盟約が彫られている。",
   "mod_epicloot_l_mjolnir": "トールの鎚、ミョルニル", 
-  "mod_epicloot_l_mjolnir_desc": "「ミョルニルは野蛮な者たちに向かって投げつけられ、ヒミールを悩ませていた山巨人たちは全て殺された」 -エッダ詩集, ヒミスクヴィダ", 
+  "mod_epicloot_l_mjolnir_desc": "「ミョルニルは野蛮な者たちに向かって投げつけられ、ヒミールを悩ませていた山巨人たちは全て殺された」 -エッダ詩集、ヒミスクヴィダ", 
   "mod_epicloot_l_lokis": "ロキの短剣、レーヴァティン", 
   "mod_epicloot_l_lokis_desc": "鷹のヴィゾーヴニルを殺すために作られ、神的な力でパチパチと音を立てている。", 
   "mod_epicloot_l_valk": "ヴァルキューレの力", 
