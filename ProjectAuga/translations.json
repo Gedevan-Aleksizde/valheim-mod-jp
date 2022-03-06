@@ -1,5 +1,6 @@
 {
   "project" : "プロジェクト",
+  "show_changelog" : "Valheim の更新を確認",
   "menu_refresh": "更新", 
   "menu_filter": "フィルター", 
   "menu_loading_noelipsis": "読込中", 
