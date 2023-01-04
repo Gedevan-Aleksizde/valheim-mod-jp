@@ -1,0 +1,9 @@
+{
+    "name": "Auga_Japanese",
+    "description": "Project Auga translation file for Japanese Lang./Project Auga 日本語化ファイル",
+    "version_number": "0.3.0",
+    "website_url": "https://github.com/Gedevan-Aleksizde/valheim-mod-jp",
+    "dependencies": [
+        "RandyKnapp-Auga-1.1.2"
+    ]
+}
