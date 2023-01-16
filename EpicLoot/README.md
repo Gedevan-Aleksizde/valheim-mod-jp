@@ -15,6 +15,7 @@ GitHub: https://github.com/Gedevan-Aleksizde/valheim-mod-jp/tree/main/EpicLoot
 * 日本語化前に Epic Loot を使用していた場合, 既に入手しているアイテムの名前や説明文が日本語化されない可能性があります.
 * フォントも日本語のものに変更したい場合は Correct Localization for Valheim JP を併用してみてください.
 * Epic Loot 本体の紹介や導入方法がわからない場合, あるいはこの日本語化modに関する問題の指摘等を日本語で行いたい場合は私の個人ブログを参照してください: https://under-identified.hatenablog.com/entry/2021/10/12/225254
+* コンフィグファイルの項目の解説もブログを参考にしてください https://under-identified.hatenablog.com/entry/2021/10/12/225254
 
 
 ## Summary
