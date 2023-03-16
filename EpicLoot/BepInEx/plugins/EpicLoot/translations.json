@@ -82,6 +82,9 @@
   "mod_epicloot_junkcost": "抽出コスト:",
 
   "mod_epicloot_disenchant": "解呪",
+  "mod_epicloot_disenchantprogress": "解呪中...",
+  "mod_epicloot_disenchantcost": "解呪コスト:",
+  "mod_epicloot_disenchantexplain": "アイテムを解呪します。 エンチャントのない状態に戻し、別のエンチャントを付与できるようにします。",
 
   "mod_epicloot_upgradetable": "魔力強化机",
 
@@ -1155,7 +1158,7 @@
 
   "mod_epicloot_l_fafnir": "〈ファフニールの血に濡れた鉤爪〉",
   "mod_epicloot_l_luff": "〈ランシング・ルフのランサーのランシング・ランス〉",
-  "mod_epicloot_l_dyrnwyn": "ダーンウィン〈白き柄〉",
+  "mod_epicloot_l_dyrnwyn": "白き柄、〈ダーンウィン〉",
   "mod_epicloot_l_dyrnwyn_desc": "ルゼルフ=ヘイル寛大王の剣。ふさわしい者が抜き放つとき、刀身が炎に包まれるという。",
   "mod_epicloot_l_sleipnirshoof": "〈スレイプニルの蹄〉",
   "mod_epicloot_l_sleipnirshoof_desc": "干からびて節くれだった馬の前足。その蹄は信じられないほど固く鋭い。これを振るうものはギャロップをさせたくなるだろう。",
