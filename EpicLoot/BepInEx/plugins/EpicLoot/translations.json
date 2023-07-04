@@ -96,7 +96,7 @@
   "mod_epicloot_disenchantprogress": "解呪中...",
   "mod_epicloot_disenchantcost": "解呪コスト:",
   "mod_epicloot_disenchantexplain": "アイテムを解呪する。 付呪のない状態に戻し、別の付呪をできるようにする。",
-  "mod_epicloot_disenchantcostreduction": "必要な印章 -$1",
+  "mod_epicloot_disenchantcostreduction": "必要な印章-$1",
 
   "mod_epicloot_upgradetable": "魔力強化机",
   "mod_epicloot_upgradetableprogress": "機能をアップグレード中...",
@@ -1217,7 +1217,7 @@
   "mod_epicloot_l_angurvadal": "アングルヴァダル", 
   "mod_epicloot_l_angurvadal_desc": "フリチョフのルーンの刻まれた剣は平和な時代にあっては暗く、戦の時代にあっては光輝く。", 
   "mod_epicloot_l_shard": "〈打ち砕くもの〉", 
-  "mod_epicloot_l_shard_desc": "Valheim がこの世から隔絶された時、砕け散った現実の破片を集め、鍛え直した。", 
+  "mod_epicloot_l_shard_desc": "ヴァルヘイムがこの世から隔絶された時、砕け散った現実の破片を集め、鍛え直した。", 
   "mod_epicloot_l_gunnar": "〈サガのアトゲイル〉", 
   "mod_epicloot_l_gunnar_desc": "グンナール=ハウムダーソンの伝説のアトゲイル。戦いの中で失われ、サガで歌われる武器と同じくらい鋭く切れたと言われる。", 
   "mod_epicloot_l_skadi": "〈スカジの狩猟〉", 
