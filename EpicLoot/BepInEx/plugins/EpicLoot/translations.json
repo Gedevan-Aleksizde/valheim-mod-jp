@@ -5,6 +5,8 @@
   // enchant -> 付呪
   // augment -> 魔力強化
   // material -> 素材
+  // magic item -> 魔法アイテム
+  // magic gear -> 魔法装備
   "mod_epicloot_craftingmaterial": "クラフト素材",
   "mod_epicloot_set": "セット装備",
 
@@ -13,15 +15,15 @@
   "mod_epicloot_remains": "残骸",
 
   "mod_epicloot_assets_dust": "粉末",
-  "mod_epicloot_assets_dust_introduce": "生贄の祭壇に残った粉末。アイテムの付呪に使用する。魔道具を捧げることで入手できる。",
+  "mod_epicloot_assets_dust_introduce": "生贄の祭壇に残った粉末。アイテムの付呪に使用する。魔法アイテムを捧げることで入手できる。",
   "mod_epicloot_assets_shard": "破片",
-  "mod_epicloot_assets_shard_introduce": "怪物的な生命力の僅かな残滓。魔道具を強化するのに使用する。動物や怪物のトロフィーを捧げることで得られる。",
+  "mod_epicloot_assets_shard_introduce": "怪物的な生命力の僅かな残滓。魔法アイテムを強化するのに使用する。動物や怪物のトロフィーを捧げることで得られる。",
   "mod_epicloot_assets_runestone": "ルーン石",
-  "mod_epicloot_assets_runestone_introduce": "最高神の力の触媒。付呪や魔道具の増強に使用する。力を持つ者のトロフィーを捧げることで得られる。",
+  "mod_epicloot_assets_runestone_introduce": "最高神の力の触媒。付呪や魔法アイテムの魔力強化に使用する。力を持つ者のトロフィーを捧げることで得られる。",
   "mod_epicloot_assets_reagent": "試薬",
-  "mod_epicloot_assets_reagent_introduce": "この形態は純粋な合成を表している。鎧と盾の付呪や増強に使用する。魔法の防具や盾を供物にすることで得られる。",
+  "mod_epicloot_assets_reagent_introduce": "この形態は純粋な合成を表している。鎧と盾の付呪や魔力強化に使用する。魔法の防具や盾を供物にすることで得られる。",
   "mod_epicloot_assets_essence": "精髄",
-  "mod_epicloot_assets_essence_introduce": "人の環境を一変させる、変幻自在の力を蒸留したもの。武器と道具の付呪や増強に使用する。魔法の武器や道具を供物にすることで得られる。",
+  "mod_epicloot_assets_essence_introduce": "人の環境を一変させる、変幻自在の力を蒸留したもの。武器と道具の付呪や魔力強化に使用する。魔法の武器や道具を供物にすることで得られる。",
   "mod_epicloot_assets_silverring": "銀の指環",
   "mod_epicloot_assets_silverring_introduce": "純銀を複雑な輪の形に鍛造してできた指環。",
   "mod_epicloot_assets_goldrubyring": "金とルビーの指環",
@@ -111,7 +113,7 @@
 
   "mod_epicloot_featureinfo_none": "機能を選び、左からアップグレードオプションを見よ。",
   "mod_epicloot_featureinfo_sacrifice": "魔法アイテムやトロフィーを供物に捧げ、付呪素材を生み出す。\n\nアップグレードすると、本来得られるアイテムの数の倍得られる確率が上昇する。",
-  "mod_epicloot_featureinfo_convertmaterials": "付呪用素材をより希少価値の高いものにアップグレードしたり、破片を同格の希少度の素材に変換したり、がらくたから素材を抽出したりする。\n\nアップグレードすると、ルーン石やクラフト素材のアップグレード時にアイテムの希少度が上昇することがある。",
+  "mod_epicloot_featureinfo_convertmaterials": "付呪用素材をより希少価値の高いものにアップグレードしたり、破片を同格の希少度の素材に変換したり、ガラクタから素材を抽出したりする。\n\nアップグレードすると、ルーン石やクラフト素材のアップグレード時にアイテムの希少度が上昇することがある。",
   "mod_epicloot_featureinfo_enchant": "付呪用素材を消費して、普通の装備に魔法効果を与える。ルーン石が必要だ。\n\nアップグレードすると、アイテムに付呪する際の効果のやり直し可能回数が増加する。",
   "mod_epicloot_featureinfo_augment": "魔力強化用素材を消費し、魔法装備の魔法効果を1つ変更する。\n\nアップグレードすると、強化箇所を変更できる数が増え、コストが減少する。",
   "mod_epicloot_featureinfo_disenchant": "素材を消費し、アイテムから魔法効果を除去して魔法のない状態に戻す。\n\nアップグレードすると、実行時に捧げたアイテムを回収する確率が上昇し、解呪コストも減少する。なおアイテム回収率は捧げた供物機能をアップグレードしても変化しない",
@@ -532,7 +534,7 @@
   "mod_epicloot_bounties_suffix_warfall": "ウォーフォール",
   "mod_epicloot_bounties_suffix_warfighter": "兵士の",
   "mod_epicloot_bounties_suffix_whispersmith": "囁き手の",
-  // 以降はアイテム名・効果のランダム生成リスト. 日本語化に際して rare アイテムのの命名ルールを {prefix} {suffix} の {basename} にしている. よって prefix は形容詞形, suffix は体言にしないと不自然になる 
+  // 以降はアイテム名・効果のランダム生成リスト. 日本語化に際して rare アイテムの命名ルールを {prefix} {suffix} の {basename} にしている. よって prefix は形容詞形, suffix は体言にしないと不自然になる 
   "mod_epicloot_basicmagicnameformat": "魔法の{0}", // 0 = base name // 変数展開は直前はスペースなしでもいいが直後はスペース必要?
   "mod_epicloot_fullnameformat": "{0} {2} {1}", // 0 = prefix, 1 = base name, 2 = suffix  // 英語が of {suffix} なので語順転換 
   "mod_epicloot_prefixformat": "{0}",
