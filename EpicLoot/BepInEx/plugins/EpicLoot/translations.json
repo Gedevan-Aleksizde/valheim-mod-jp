@@ -178,6 +178,7 @@
   "mod_epicloot_merchant_abandonbountyconfirm": "討伐を放棄する?",
   "mod_epicloot_merchant_abandonbountydesc": "これは二度と受けることができないだろう",
   "mod_epicloot_merchant_acceptbounty": "依頼を受ける",
+  "mod_epicloot_merchant_max_bounties": "賞金首が最大数に達した",
   "mod_epicloot_merchant_bounties": "討伐",
   "mod_epicloot_merchant_bountiesactive": "受理済み",
   "mod_epicloot_merchant_bountiesavailable": "受理可能",
