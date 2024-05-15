@@ -540,6 +540,8 @@
   "mod_epicloot_suffixformat": "{0} の",
   "mod_epicloot_epicnameformat": "{0} {1}", // 0 = adjective, 1 = name
   "mod_epicloot_basiclegendarynameformat": "伝説の{0}", // 0 = base name
+  "mod_epicloot_basicmythicnameformat": "神話の {0}", // 0 = base name
+
   "mod_epicloot_me_explaintitle": "魔法効果の説明",
   "mod_epicloot_me_dvergercirclet_display": "消えることのない光",
   "mod_epicloot_me_megingjord_display": "運搬重量 +150",
@@ -837,6 +839,10 @@
   "mod_epicloot_me_addbowsskill_desc": "プレイヤーの弓スキルが <b><color=yellow>X</color></b> 上昇する。これによりレベルが100を超えることもある。",
   "mod_epicloot_me_addbowsskill_prefix1": "射手の",
   "mod_epicloot_me_addbowsskill_suffix1": "弓術",
+  "mod_epicloot_me_addcrossbowsskill_display": "クロスボウスキル +{0}",
+  "mod_epicloot_me_addcrossbowsskill_desc": "プレイヤーのクロスボウスキルが <b><color=yellow>X</color></b> 上昇する。これによりレベルが100を超えることもある。",
+  "mod_epicloot_me_addcrossbowsskill_prefix1": "アルバリストの",
+  "mod_epicloot_me_addcrossbowsskill_suffix1": "アルバリスト",
   "mod_epicloot_me_addbloodmagicskill_display": "血の魔術 +{0}",
   "mod_epicloot_me_addbloodmagicskill_desc": "プレイヤーの血の魔術のスキルレベルが <b><color=yellow>X</color></b> 上昇する。これによりレベルが100を超えることもある。",
   "mod_epicloot_me_addbloodmagicskill_prefix1": "召喚士の",
@@ -853,6 +859,10 @@
   "mod_epicloot_me_addpickaxesskill_desc": "プレイヤーのつるはしスキルが <b><color=yellow>X</color></b> 上昇する。これによりレベルが100を超えることもある。",
   "mod_epicloot_me_addpickaxesskill_prefix1": "採掘の",
   "mod_epicloot_me_addpickaxesskill_suffix1": "鉱夫",
+  "mod_epicloot_me_addfishingskill_display": "釣りスキル +{0}",
+  "mod_epicloot_me_addfishingskill_desc": "プレイヤーの釣りスキルが <b><color=yellow>X</color></b> 上昇する。これによりレベルが100を超えることもある。",
+  "mod_epicloot_me_addfishingskill_prefix1": "釣りの",
+  "mod_epicloot_me_addfishingskill_suffix1": "釣り師",
   "mod_epicloot_me_addmovementskills_display": "運動術 +{0}",
   "mod_epicloot_me_addmovementskills_desc": "プレイヤーの走行・ジャンプ・水泳・隠密攻撃スキルが <b><color=yellow>X</color></b> 上昇する。これによりレベルが100を超えることもある。",
   "mod_epicloot_me_addmovementskills_prefix1": "冒険の",
@@ -1259,5 +1269,7 @@
   "mod_epicloot_rare": "[レア]",
   "mod_epicloot_epic": "[エピック]",
   "mod_epicloot_legendary": "[伝説級]",
-  "mod_epicloot_legendarysetlabel": "伝説級の装備一式"
+  "mod_epicloot_legendarysetlabel": "伝説級の装備一式",
+  "mod_epicloot_mythic": "神話級の",
+  "mod_epicloot_mythicsetlabel": "神話級の装備一式"
 }
