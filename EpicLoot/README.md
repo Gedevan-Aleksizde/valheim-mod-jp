@@ -8,7 +8,7 @@ GitHub: https://github.com/Gedevan-Aleksizde/valheim-mod-jp/tree/main/EpicLoot
 
 ## インストール方法
 
-MO2 を使えば, EpicLootのフォルダ構造を手動で修正する以外は, 比較的簡単にインストールできます. 以下は手動でインストールする場合の手順です.
+MO2 や ThuderStore 対応のMod管理ツールを使えば, EpicLootのフォルダ構造を手動で修正する以外は, 比較的簡単にインストールできます. **Vortexは使わないでください.** 以下は手動でインストールする場合の手順です.
 
 1. [Epic Loot](https://valheim.thunderstore.io/package/RandyKnapp/EpicLoot/) 本体をインストールします
     * 作者は BepInEx/plugins/EpicLoot 以下にインストールしろと言っていますが, 配布ファイルの構造はたいてい作者自身の指示に対して間違っているので注意してください
