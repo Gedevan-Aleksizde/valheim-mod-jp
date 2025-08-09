@@ -106,7 +106,7 @@
   "mod_epicloot_unlockcost": "ロック解除コスト:",
   "mod_epicloot_effectsperlevel": "アップグレード:",
   "mod_epicloot_upgrademessage": "$1 をレベル $2 にアップグレードした",
-  "mod_epicloot_unlockmessage": "$1 が $2 にアップグレードされた",
+  "mod_epicloot_unlockmessage": "$1 が解放された!",
   "mod_epicloot_bonus": "ボーナス!", 
 
   "mod_epicloot_featureinfo_none": "機能を選択すると、左にアップグレードオプションが表示される。",
@@ -539,12 +539,12 @@
   "mod_epicloot_bounties_suffix_whispersmith": "囁き手の",
   // 以降はアイテム名・効果のランダム生成リスト. 日本語化に際して rare アイテムの命名ルールを {prefix} {suffix} の {basename} にしている. よって prefix は形容詞形, suffix は体言にしないと不自然になる 
   "mod_epicloot_basicmagicnameformat": "魔法の{0}", // 0 = base name // 変数展開は直前はスペースなしでもいいが直後はスペース必要?
-  "mod_epicloot_fullnameformat": "{0} {2} {1}", // 0 = prefix, 1 = base name, 2 = suffix  // 英語が of {suffix} なので語順転換 
+  "mod_epicloot_fullnameformat": "{0}{2}{1}", // 0 = prefix, 1 = base name, 2 = suffix  // 英語が of {suffix} なので語順転換 
   "mod_epicloot_prefixformat": "{0}",
-  "mod_epicloot_suffixformat": "{0} の",
-  "mod_epicloot_epicnameformat": "{0} {1}", // 0 = adjective, 1 = name
+  "mod_epicloot_suffixformat": "{0}の",
+  "mod_epicloot_epicnameformat": "{0}{1}", // 0 = adjective, 1 = name
   "mod_epicloot_basiclegendarynameformat": "伝説の{0}", // 0 = base name
-  "mod_epicloot_basicmythicnameformat": "神話の {0}", // 0 = base name
+  "mod_epicloot_basicmythicnameformat": "神話の{0}", // 0 = base name
 
   "mod_epicloot_me_explaintitle": "魔法効果の説明",
   "mod_epicloot_me_dvergercirclet_display": "消えることのない光",
@@ -1072,6 +1072,18 @@
   "mod_epicloot_me_triplebowshot_desc": "弓矢攻撃の一矢が三発になる。",
   "mod_epicloot_me_triplebowshot_prefix1": "三倍化の",
   "mod_epicloot_me_triplebowshot_suffix1": "三倍化",
+  "mod_epicloot_me_spellsword_display": "魔力の刃 +{0}",
+  "mod_epicloot_me_spellsword_desc": "エイトルの使用コストの一部を使い、ダメージを増加させる。",
+  "mod_epicloot_me_spellsword_prefix1": "魔力の刃",
+  "mod_epicloot_me_spellsword_suffix1": "魔力の刃",
+  "mod_epicloot_me_bulkup_display": "頑丈さ +{0}",
+  "mod_epicloot_me_bulkup_desc": "回復力の一部を最大HPに変換する。",
+  "mod_epicloot_me_bulkup_prefix1": "筋骨の",
+  "mod_epicloot_me_bulkup_suffix1": "筋骨隆々",
+  "mod_epicloot_me_eitrweave_display": "エイトル織り +{0}",
+  "mod_epicloot_me_eitrweave_desc": "パリイによって回復するエイトル +<b><color=yellow>X</color></b>。",
+  "mod_epicloot_me_eitrweave_prefix1": "織りなす",
+  "mod_epicloot_me_eitrweave_suffix1": "織り手",
   "mod_epicloot_set_me_bulwark": "城壁 [発動中]: 5秒間あらゆるダメージを防ぐ。再使用まで60秒必要。", 
   "mod_epicloot_set_me_undying": "不死 [パッシブ]: 死亡すると体力が全回復して蘇生する。再使用まで20分必要。", 
   "mod_epicloot_set_me_frostdamageaoe_display": "接近攻撃すると武器ダメージの50%分の凍結ダメージの攻撃を前方に円錐状に発生させる。",
