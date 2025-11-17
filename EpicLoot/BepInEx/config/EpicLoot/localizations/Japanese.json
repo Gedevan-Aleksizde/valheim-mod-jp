@@ -1192,7 +1192,7 @@
   "mod_epicloot_me_dodgebuff_prefix1": "回避の",
   "mod_epicloot_me_dodgebuff_suffix1": "回避",
   "mod_epicloot_me_dodgebuff_desc": "敵の近接攻撃を回避すると10秒間攻撃力が上昇する。効果が時間切れになるか消去されるまで消えない。",
-  "mod_epicloot_me_dodgebuff_display": "DodgeBuff +{0}%",
+  "mod_epicloot_me_dodgebuff_display": "回避時攻撃上昇 +{0}%",
   "mod_epicloot_me_offsetattack_prefix1": "相殺の",
   "mod_epicloot_me_offsetattack_suffix1": "相殺",
   "mod_epicloot_me_offsetattack_desc": "敵の近接攻撃と同時に攻撃した場合、連続攻撃中の3打目に硬直回避とダメージ軽減 and damage reduction if timed against an enemy melee attack.",
