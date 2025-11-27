@@ -124,8 +124,8 @@
   "mod_epicloot_rune_imbue_warning": "ルーンをアイテムにかけると、選んだ付呪に上書きできる。",
   "mod_epicloot_rune_enchantment_selector": "付呪を選ぶ",
   "mod_epicloot_rune_enchantment_overwrite_target": "上書きする付呪を選択する。",
-  "mod_epicloot_featureinfo_runes": "ルーンは様々なアイテムから付呪を刻み, 他の装備に付呪を移すために使える。特別なルーンは非常に強力な素材から作られる。 Runes can be etched with enchantments from various items and used to pass those enchantments onto different items. Special etched runes can also be created from extremely powerful materials.",
-  "mod_epicloot_featureupgrade_runes": "costs -$1%, $2% enchantment power",
+  "mod_epicloot_featureinfo_runes": "ルーンは様々なアイテムから付呪を刻み, 他の装備に付呪を移すために使える。特別なルーンは非常に強力な素材から作られる。 様々なアイテムの付呪を、別のアイテムにルーンとともに刻んで移し替えられる。特別に強力な素材を使って、特殊なルーンを作ることも可能だ。",
+  "mod_epicloot_featureupgrade_runes": "コスト -$1%, $2% 付呪力",
 
   "mod_epicloot_convertmaterials": "素材変換",
   "mod_epicloot_products": "生産されるアイテム:",
@@ -648,7 +648,7 @@
   "mod_epicloot_me_reduceweight_prefix1": "軽い",
   "mod_epicloot_me_reduceweight_prefix2": "細い",
   "mod_epicloot_me_reduceweight_suffix1": "〈羽根〉",
-  "mod_epicloot_me_removespeedpenalty_display": "無重量アイテム",
+  "mod_epicloot_me_removespeedpenalty_display": "縛りを受けない",
   "mod_epicloot_me_removespeedpenalty_desc": "この魔道具を装備したプレイヤーは移動スピードのペナルティを受けない。",
   "mod_epicloot_me_removespeedpenalty_prefix1": "機敏な",
   "mod_epicloot_me_removespeedpenalty_prefix2": "使いやすい",
@@ -1477,5 +1477,10 @@
   "mod_epicloot_legendary": "[伝説級]",
   "mod_epicloot_legendarysetlabel": "伝説級の装備一式",
   "mod_epicloot_mythic": "神話級の",
-  "mod_epicloot_mythicsetlabel": "神話級の装備一式"
+  "mod_epicloot_mythicsetlabel": "神話級の装備一式",
+
+  "mod_epicloot_search_placeholder": "検索",
+  "mod_epicloot_no_active_adventures": "進行中の冒険なし",
+  "mod_epicloot_set_bonuses": "ボーナスを設定する",
+  "mod_epicloot_legendary_sets": "伝説級の装備一式"
 }
